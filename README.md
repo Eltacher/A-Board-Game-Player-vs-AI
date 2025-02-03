@@ -13,7 +13,6 @@ This project is a **strategy game on a 7x7 grid** with an **AI opponent**. The A
 Follow these steps to run the project:
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/BoardGameG2DwithAI.git
 cd BoardGameG2DwithAI
 javac BoardGameG2DwithAI.java
 java BoardGameG2DwithAI
